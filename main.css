@@ -1,0 +1,12 @@
+body {
+  /* background-color: #00807f; */
+  background-color: #292929;
+  margin: 0px;
+  cursor: none;
+  background-image: url(img/bianca);
+}
+
+canvas {
+  display: block;
+  image-rendering: pixelated;
+}
